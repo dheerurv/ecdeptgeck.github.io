@@ -363,7 +363,7 @@
       <p><span class="glyphicon glyphicon-envelope"></span> ecgeck@gmail.com</p>
     </div>
     <div class="col-sm-7 slideanim">
-      <form action="userinfodata.php" method="post">
+      <form action="ddd.html" method="post">
       <div class="row">
         <div class="col-sm-6 form-group"> 
           <input class="form-control" id="name" name="name" placeholder="Name" type="text" required>
